@@ -1,6 +1,6 @@
 # AICTE-internships
 
-1.Calculator<br><hr>
+**1.Calculator**<br><hr>
 This project is a simple calculator implemented using HTML, CSS (Flexbox/Grid), and JavaScript. <br>It supports basic arithmetic operations (+, -, *, /), modulo operation (%), and square of a number. It also includes an "AC" (All Clear) button to clear the current calculation, and an "Equal" button to perform the operation.<br>
 <br>
 **Features**<br>
@@ -10,10 +10,10 @@ Implemented using JavaScript for dynamic calculations and user interactions.<br>
 <br>**Technologies Used**<br>
 HTML
 CSS (Flexbox/Grid)
-JavaScript<br>
+JavaScript<br><hr>
 
 
-2.Form Validation with Google reCAPTCHA <br><hr>
+<br>**2.Form Validation with Google reCAPTCHA** <br><hr>
 This project implements a registration form with client-side validation using HTML, CSS (Bootstrap), and JavaScript. It includes integration with Google reCAPTCHA to prevent automated submissions by bots.
 
 <br>**Features**<br>
