@@ -3,11 +3,11 @@
 1.Calculator<br><hr>
 This project is a simple calculator implemented using HTML, CSS (Flexbox/Grid), and JavaScript. <br>It supports basic arithmetic operations (+, -, *, /), modulo operation (%), and square of a number. It also includes an "AC" (All Clear) button to clear the current calculation, and an "Equal" button to perform the operation.<br>
 <br>
-**Features**
+**Features**<br>
 Supports addition (+), subtraction (-), multiplication (*), division (/), modulo (%), and square operation.
 Responsive design using CSS Flexbox/Grid for layout.
 Implemented using JavaScript for dynamic calculations and user interactions.<br>
-**Technologies Used**<br>
+<br>**Technologies Used**<br>
 HTML
 CSS (Flexbox/Grid)
 JavaScript<br>
