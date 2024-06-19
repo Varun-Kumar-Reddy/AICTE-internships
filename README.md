@@ -25,7 +25,7 @@ Password (at least 8 characters, not 'password' or the same as Full Name)
 Confirm Password (must match Password)
 Integrates Google reCAPTCHA to verify user interaction and prevent bot submissions.
 Responsive design using Bootstrap for better compatibility across devices.<br>
-<br>Technologies Used
+<br>Technologies Used<br>
 HTML
 CSS (Bootstrap)
 JavaScript
