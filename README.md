@@ -1,6 +1,6 @@
 # AICTE-internships
 
-1.Calculator
+1.Calculator<br>
 This project is a simple calculator implemented using HTML, CSS (Flexbox/Grid), and JavaScript. It supports basic arithmetic operations (+, -, *, /), modulo operation (%), and square of a number. It also includes an "AC" (All Clear) button to clear the current calculation, and an "Equal" button to perform the operation.
 
 Features
